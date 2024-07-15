@@ -1,0 +1,12 @@
+/* Navbar brand (logo) styling */
+.navbar-brand {
+    padding: 0; /* Remove default padding */
+}
+
+.navbar-brand img {
+    max-height: 70px; /* Adjust the maximum height of the logo */
+    width: auto; /* Ensure the width adjusts proportionally */
+    vertical-align: middle; /* Align the logo vertically */
+}
+
+/** ADD YOUR AWESOME CODES HERE **/
